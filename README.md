@@ -1,6 +1,8 @@
 ## epibacterial-macroalgae-scripts
 
-Scripts used to conduct analyses in Florez et al., 2025, "Macroalgal host and geographical regions, as key determinants for macroalgae epiphytic bacterial community variability."
+Scripts used to conduct analyses in Florez et al., 2025, "Macroalgal host and geographical regions, as key determinants for macroalgae epiphytic bacterial community variability." </br>
+
+![alt text](https://github.com/pabruna/epibacterial-macroalgae-scripts/blob/main/methods/workflow.png)</br>
 
 ### Libraries Versions
 
