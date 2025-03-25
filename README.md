@@ -1,6 +1,6 @@
 ## epibacterial-macroalgae-scripts
 
-Scripts used to conduct analyses in Florez et al., 2025, "Revisiting epibacterial communities on macroalgae across geographical regions:  Harnessing bioinformatics for taxonomic reshaping."
+Scripts used to conduct analyses in Florez et al., 2025, "Macroalgal host and geographical regions, as key determinants for macroalgae epiphytic bacterial community variability."
 
 ### Libraries Versions
 
